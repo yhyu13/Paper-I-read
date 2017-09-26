@@ -4,7 +4,12 @@ This repo contains scientific paper I read as a reminder to myself. Hope this is
 # Time line
 
 ## 2017
+[Neuroscience inspired A.I.](http://www.cell.com/neuron/abstract/S0896-6273(17)30509-3)
 [On the Origin of Deep Learning](https://arxiv.org/pdf/1702.07800.pdf)
+
+## 2016
+
+[Random synaptic feedback weights support error backpropagation for deep learning](https://www.nature.com/articles/ncomms13276#s1)
 
 ## 2015
 
