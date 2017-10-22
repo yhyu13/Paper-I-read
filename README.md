@@ -68,3 +68,5 @@ Relatively Shallow Networks](https://arxiv.org/pdf/1605.06431.pdf)
 [What is the statistical interpretation of NN - Quora (Regression equations)](https://www.quora.com/What-is-a-statistical-interpretation-of-neural-networks)
 
 [RNN intro cs.toronto](http://www.cs.toronto.edu/~urtasun/courses/CSC2541_Winter17/RNN.pdf)
+
+[14 DESIGN PATTERNS TO IMPROVE YOUR CONVOLUTIONAL NEURAL NETWORKS](https://www.topbots.com/14-design-patterns-improve-convolutional-neural-network-cnn-architecture/)
