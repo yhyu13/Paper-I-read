@@ -42,6 +42,8 @@ Scalable Alternative to Reinforcement Learning (OpenAi)](https://arxiv.org/pdf/1
 
 ## 2016
 
+[Deep Residual Networks with Exponential Linear Unit](https://arxiv.org/pdf/1604.04112.pdf)
+
 [Residual Networks Behave Like Ensembles of
 Relatively Shallow Networks](https://arxiv.org/pdf/1605.06431.pdf)
 
