@@ -13,6 +13,8 @@ This repo contains scientific paper I read as a reminder to myself. Hope this is
 
 ## 2017
 
+[Neural Combinatory Optimization with Reinforcment Learning](https://arxiv.org/pdf/1611.09940.pdf)
+
 [Mastering the game of Go without human knowledge (AlphaGO Zero)](https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ)
 
 [Rainbow: Combining Improvements in Deep Reinforcement Learning (Rainbow 6)](https://yhyu13.github.io/DeepMind-Rainbow/)
