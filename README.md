@@ -80,3 +80,5 @@ Relatively Shallow Networks](https://arxiv.org/pdf/1605.06431.pdf)
 [An Introduction to distributed Deep Learning](https://seba-1511.github.io/dist_blog/)
 
 [Python Asynchrounous programming](https://www.youtube.com/watch?v=cYUr0BveIkY)
+
+[How to deploy Machine Learning models with TensorFlow. Part 1 — make your model ready for serving.](https://towardsdatascience.com/how-to-deploy-machine-learning-models-with-tensorflow-part-1-make-your-model-ready-for-serving-776a14ec3198)
