@@ -76,3 +76,5 @@ Relatively Shallow Networks](https://arxiv.org/pdf/1605.06431.pdf)
 [14 DESIGN PATTERNS TO IMPROVE YOUR CONVOLUTIONAL NEURAL NETWORKS](https://www.topbots.com/14-design-patterns-improve-convolutional-neural-network-cnn-architecture/)
 
 [Implementing Batch Normalization in Tensorflow](https://r2rt.com/implementing-batch-normalization-in-tensorflow.html)
+
+[An Introduction to distributed Deep Learning](https://seba-1511.github.io/dist_blog/)
