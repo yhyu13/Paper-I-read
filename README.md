@@ -78,3 +78,5 @@ Relatively Shallow Networks](https://arxiv.org/pdf/1605.06431.pdf)
 [Implementing Batch Normalization in Tensorflow](https://r2rt.com/implementing-batch-normalization-in-tensorflow.html)
 
 [An Introduction to distributed Deep Learning](https://seba-1511.github.io/dist_blog/)
+
+[Python Asynchrounous programming](https://www.youtube.com/watch?v=cYUr0BveIkY)
