@@ -13,36 +13,48 @@ This repo contains scientific paper I read as a reminder to myself. Hope this is
 
 ## 2017
 
-[Neural Combinatory Optimization with Reinforcment Learning](https://arxiv.org/pdf/1611.09940.pdf)
+### RL
+
+[Neural Combinatory Optimization with Reinforcment Learning (RL TSP)](https://arxiv.org/pdf/1611.09940.pdf)
 
 [Mastering the game of Go without human knowledge (AlphaGO Zero)](https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ)
 
 [Rainbow: Combining Improvements in Deep Reinforcement Learning (Rainbow 6)](https://yhyu13.github.io/DeepMind-Rainbow/)
 
-[Residual LSTM: Design of a Deep Recurrent Architecture for Distant Speech
-Recognition (Res-LSTM)](https://arxiv.org/pdf/1701.03360.pdf)
-
-[Bridging the Gaps Between Residual Learning,
-Recurrent Neural Networks and Visual Cortex (ResNet~=recurrent network)](https://arxiv.org/pdf/1604.03640.pdf)
-
 [Reverse Curriculum Generation for Reinforcement Learning (Reward guiding)](https://arxiv.org/pdf/1707.05300.pdf)
 
-[Automatic Goal Generation for Reinforcement Learning Agents](https://arxiv.org/pdf/1705.06366.pdf)
+[Automatic Goal Generation for Reinforcement Learning Agents (goal GAN)](https://arxiv.org/pdf/1705.06366.pdf)
 
 [Learning with Oppent-learning Awarness (LOLA)](https://arxiv.org/pdf/1709.04326.pdf)
 
-[Neuroscience inspired A.I. (Deepmind)](http://www.cell.com/neuron/abstract/S0896-6273(17)30509-3)
-
-[On the Origin of Deep Learning (CMU)](https://arxiv.org/pdf/1702.07800.pdf)
-
 [Evolution Strategies as a
-Scalable Alternative to Reinforcement Learning (OpenAi)](https://arxiv.org/pdf/1703.03864.pdf)
+Scalable Alternative to Reinforcement Learning (distributed ES)](https://arxiv.org/pdf/1703.03864.pdf)
+
+### Architecture
+
+[Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf)
+
+[Residual LSTM: Design of a Deep Recurrent Architecture for Distant Speech
+Recognition (Res-LSTM)](https://arxiv.org/pdf/1701.03360.pdf)
 
 [Learning Hierarchical Information Flow with Recurrent Neural Modules (ThalNet)](https://pdfs.semanticscholar.org/76d1/9efb925b33e67d93c94a9cab242889186485.pdf)
 
 [Learning human behaviors from motion capture by adversarial imitation (GAIL)](https://arxiv.org/pdf/1707.02201.pdf)
 
+### Neuroscience
+
+[Bridging the Gaps Between Residual Learning,
+Recurrent Neural Networks and Visual Cortex (ResNet~=recurrent network)](https://arxiv.org/pdf/1604.03640.pdf)
+
+[Neuroscience inspired A.I. (Survey)](http://www.cell.com/neuron/abstract/S0896-6273(17)30509-3)
+
+### Others
+
+[On the Origin of Deep Learning (Survey)](https://arxiv.org/pdf/1702.07800.pdf)
+
 ## 2016
+
+[Identity Mappings in Deep Residual Networks](https://arxiv.org/pdf/1603.05027.pdf)
 
 [Deep Residual Networks with Exponential Linear Unit](https://arxiv.org/pdf/1604.04112.pdf)
 
@@ -67,6 +79,8 @@ Relatively Shallow Networks](https://arxiv.org/pdf/1605.06431.pdf)
 ## 2014
 
 [On the Number of Linear Regions of Deep Neural Networks (Relu)](https://arxiv.org/pdf/1402.1869.pdf)
+
+[Network in Network (Global Average Pooling)](https://arxiv.org/pdf/1312.4400.pdf)
 
 # Dessert 
 [What is the statistical interpretation of NN - Quora (Regression equations)](https://www.quora.com/What-is-a-statistical-interpretation-of-neural-networks)
