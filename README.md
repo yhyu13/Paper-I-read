@@ -13,6 +13,17 @@ This repo contains scientific paper I read as a reminder to myself. Hope this is
 
 ## 2017
 
+### Thanksgiving reading list
+
+[ImageNet Training in Minutes
+(featureing Intel's CPU distributed DNN training platform)](https://arxiv.org/pdf/1709.05011.pdf)
+
+[Hierarchical Representations For Efficient Architecture Search (ES designd network architecture)](https://arxiv.org/pdf/1711.00436.pdf)
+
+[Understanding Deep Learning Requires Rethinking Generalization ](https://arxiv.org/pdf/1611.03530.pdf)
+
+[Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf)
+
 ### RL
 
 [Neural Combinatory Optimization with Reinforcment Learning (RL TSP)](https://arxiv.org/pdf/1611.09940.pdf)
@@ -31,8 +42,6 @@ This repo contains scientific paper I read as a reminder to myself. Hope this is
 Scalable Alternative to Reinforcement Learning (distributed ES)](https://arxiv.org/pdf/1703.03864.pdf)
 
 ### Architecture
-
-[Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf)
 
 [Residual LSTM: Design of a Deep Recurrent Architecture for Distant Speech
 Recognition (Res-LSTM)](https://arxiv.org/pdf/1701.03360.pdf)
