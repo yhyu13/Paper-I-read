@@ -105,3 +105,11 @@ Relatively Shallow Networks](https://arxiv.org/pdf/1605.06431.pdf)
 [Python Asynchrounous programming](https://www.youtube.com/watch?v=cYUr0BveIkY)
 
 [How to deploy Machine Learning models with TensorFlow. Part 1 — make your model ready for serving.](https://towardsdatascience.com/how-to-deploy-machine-learning-models-with-tensorflow-part-1-make-your-model-ready-for-serving-776a14ec3198)
+
+[【TensorFlow】tf.nn.conv2d是怎样实现卷积的？](http://blog.csdn.net/mao_xiao_feng/article/details/78004522)
+
+[【Tensorflow】tf.nn.separable_conv2d如何实现深度可分卷积?](http://blog.csdn.net/mao_xiao_feng/article/details/78002811)
+
+[【Tensorflow】tf.nn.depthwise_conv2d如何实现深度卷积?](http://blog.csdn.net/mao_xiao_feng/article/details/78003476)
+
+[【Tensorflow】tf.nn.atrous_conv2d如何实现空洞卷积？](http://blog.csdn.net/mao_xiao_feng/article/details/78003730)
