@@ -13,6 +13,24 @@ This repo contains scientific paper I read as a reminder to myself. Hope this is
 
 ## 2017
 
+### Christmas reading list
+
+[GPU Kernels for Block-Sparse Weights (OpenAI)](https://s3-us-west-2.amazonaws.com/openai-assets/blocksparse/blocksparsepaper.pdf)
+
+[Meta Learning Shared Hierarchies(OpenAI)](https://arxiv.org/pdf/1710.09767.pdf)
+
+[Sim-to-Real Transfer of Robotic Control with Dynamics Randomization (OpenAI)](https://arxiv.org/pdf/1710.06537.pdf)
+
+[Asymmetric Actor Critic for Image-Based Robot Learning](https://arxiv.org/pdf/1710.06542.pdf)
+
+[Ai Safety Gridworld](https://arxiv.org/pdf/1711.09883.pdf)
+
+[Population Based Training of Neural Networks](https://arxiv.org/abs/1711.09846)
+
+[Learning Explanatory Rules from Noisy Data(ILP)](https://arxiv.org/pdf/1711.04574.pdf)
+
+[Neural Discrete Representation Learning](https://arxiv.org/pdf/1711.00937.pdf)
+
 ### Thanksgiving reading list
 
 [ImageNet Training in Minutes
@@ -113,3 +131,5 @@ Relatively Shallow Networks](https://arxiv.org/pdf/1605.06431.pdf)
 [【Tensorflow】tf.nn.depthwise_conv2d如何实现深度卷积?](http://blog.csdn.net/mao_xiao_feng/article/details/78003476)
 
 [【Tensorflow】tf.nn.atrous_conv2d如何实现空洞卷积？](http://blog.csdn.net/mao_xiao_feng/article/details/78003730)
+
+[TensorFlow架构与设计：综述](http://www.jianshu.com/p/a5574ebcdeab)
