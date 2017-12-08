@@ -31,6 +31,9 @@ This repo contains scientific paper I read as a reminder to myself. Hope this is
 
 [Neural Discrete Representation Learning](https://arxiv.org/pdf/1711.00937.pdf)
 
+[A Unified Game-Theoretic Approach to
+Multiagent Reinforcement Learning](https://arxiv.org/pdf/1711.00832.pdf)
+
 ### Thanksgiving reading list
 
 [ImageNet Training in Minutes
