@@ -15,6 +15,8 @@ This repo contains scientific paper I read as a reminder to myself. Hope this is
 
 ### Christmas reading list
 
+[Neural Map: Structured Memory For Deep Reinforcement Learning](https://arxiv.org/pdf/1702.08360.pdf)
+
 [GPU Kernels for Block-Sparse Weights (OpenAI)](https://s3-us-west-2.amazonaws.com/openai-assets/blocksparse/blocksparsepaper.pdf)
 
 [Meta Learning Shared Hierarchies(OpenAI)](https://arxiv.org/pdf/1710.09767.pdf)
