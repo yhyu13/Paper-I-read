@@ -15,23 +15,23 @@ This repo contains scientific paper I read as a reminder to myself. Hope this is
 
 ### Christmas reading list
 
-[Neural Map: Structured Memory For Deep Reinforcement Learning](https://arxiv.org/pdf/1702.08360.pdf)
+[Neural Map: Structured Memory For Deep Reinforcement Learning (Useful to vMWM)](https://arxiv.org/pdf/1702.08360.pdf)
 
-[GPU Kernels for Block-Sparse Weights (OpenAI)](https://s3-us-west-2.amazonaws.com/openai-assets/blocksparse/blocksparsepaper.pdf)
+[GPU Kernels for Block-Sparse Weights (OpenAI train bigger DNN)](https://s3-us-west-2.amazonaws.com/openai-assets/blocksparse/blocksparsepaper.pdf)
 
-[Meta Learning Shared Hierarchies(OpenAI)](https://arxiv.org/pdf/1710.09767.pdf)
+[Meta Learning Shared Hierarchies(OpenAI choose operand)](https://arxiv.org/pdf/1710.09767.pdf)
 
-[Sim-to-Real Transfer of Robotic Control with Dynamics Randomization (OpenAI)](https://arxiv.org/pdf/1710.06537.pdf)
+[Sim-to-Real Transfer of Robotic Control with Dynamics Randomization (OpenAI randomnized environment to better generalization)](https://arxiv.org/pdf/1710.06537.pdf)
 
-[Asymmetric Actor Critic for Image-Based Robot Learning](https://arxiv.org/pdf/1710.06542.pdf)
+[Asymmetric Actor Critic for Image-Based Robot Learning (OpenAI techer-student critic learning)](https://arxiv.org/pdf/1710.06542.pdf)
 
-[Ai Safety Gridworld](https://arxiv.org/pdf/1711.09883.pdf)
+[Ai Safety Gridworld (DeepMind "Performance function" hidden goal)](https://arxiv.org/pdf/1711.09883.pdf)
 
-[Population Based Training of Neural Networks](https://arxiv.org/abs/1711.09846)
+[Population Based Training of Neural Networks (DeepMind Baysian hyperparameter Optimization-Explore,exploit)](https://arxiv.org/abs/1711.09846)
 
-[Learning Explanatory Rules from Noisy Data(ILP)](https://arxiv.org/pdf/1711.04574.pdf)
+[Learning Explanatory Rules from Noisy Data(Differentiable Inductive Logic framework)](https://arxiv.org/pdf/1711.04574.pdf)
 
-[Neural Discrete Representation Learning](https://arxiv.org/pdf/1711.00937.pdf)
+[Neural Discrete Representation Learning (Vector Quantised Variational AutoEncoder)](https://arxiv.org/pdf/1711.00937.pdf)
 
 [A Unified Game-Theoretic Approach to
 Multiagent Reinforcement Learning](https://arxiv.org/pdf/1711.00832.pdf)
@@ -43,9 +43,9 @@ Multiagent Reinforcement Learning](https://arxiv.org/pdf/1711.00832.pdf)
 
 [Hierarchical Representations For Efficient Architecture Search (ES designd network architecture)](https://arxiv.org/pdf/1711.00436.pdf)
 
-[Understanding Deep Learning Requires Rethinking Generalization ](https://arxiv.org/pdf/1611.03530.pdf)
+[Understanding Deep Learning Requires Rethinking Generalization (DNN shatter dataset)](https://arxiv.org/pdf/1611.03530.pdf)
 
-[Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf)
+[Dynamic Routing Between Capsules (Pixel to coord with unsupervised routing)](https://arxiv.org/pdf/1710.09829.pdf)
 
 ### RL
 
