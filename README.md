@@ -136,3 +136,5 @@ Relatively Shallow Networks](https://arxiv.org/pdf/1605.06431.pdf)
 [【Tensorflow】tf.nn.atrous_conv2d如何实现空洞卷积？](http://blog.csdn.net/mao_xiao_feng/article/details/78003730)
 
 [TensorFlow架构与设计：综述](http://www.jianshu.com/p/a5574ebcdeab)
+
+[TensorFlow基本用法](https://yjango.gitbooks.io/superorganism/content/tensorflowji_ben_yong_fa.html)
