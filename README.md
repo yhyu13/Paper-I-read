@@ -15,6 +15,8 @@ This repo contains scientific paper I read as a reminder to myself. Hope this is
 
 ### Christmas reading list
 
+[Curiosity-driven Exploration by Self-supervised Prediction (Intrinsic Curiosity Module)](https://arxiv.org/pdf/1705.05363.pdf)
+
 [Neural Map: Structured Memory For Deep Reinforcement Learning (Useful to vMWM)](https://arxiv.org/pdf/1702.08360.pdf)
 
 [GPU Kernels for Block-Sparse Weights (OpenAI train bigger DNN)](https://s3-us-west-2.amazonaws.com/openai-assets/blocksparse/blocksparsepaper.pdf)
