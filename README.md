@@ -15,6 +15,10 @@ This repo contains scientific paper I read as a reminder to myself. Hope this is
 
 ### Christmas reading list
 
+[Deep Reinforcement Learning that Matters](https://arxiv.org/pdf/1709.06560.pdf)
+
+[Run, skeleton, run: skeletal model in a physics-based simulation](https://arxiv.org/pdf/1711.06922.pdf)
+
 [Curiosity-driven Exploration by Self-supervised Prediction (Intrinsic Curiosity Module)](https://arxiv.org/pdf/1705.05363.pdf)
 
 [Neural Map: Structured Memory For Deep Reinforcement Learning (Useful to vMWM)](https://arxiv.org/pdf/1702.08360.pdf)
