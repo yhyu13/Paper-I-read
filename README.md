@@ -15,6 +15,8 @@ This repo contains scientific paper I read as a reminder to myself. Hope this is
 
 ### Christmas reading list
 
+[House3D: A Rich and Realistic 3D Environment](http://embodiedqa.org/paper.pdf)
+
 [CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning](http://vision.stanford.edu/pdf/johnson2017cvpr.pdf)
 
 [Extreme Learning Machine for Multilayer Perceptron](https://pdfs.semanticscholar.org/2878/d9936f494ed7d0c8aec47e9bcc5e51609f9a.pdf)
