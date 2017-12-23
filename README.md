@@ -15,6 +15,10 @@ This repo contains scientific paper I read as a reminder to myself. Hope this is
 
 ### Christmas reading list
 
+[COMPARISON OF BATCH NORMALIZATION AND
+WEIGHT NORMALIZATION ALGORITHMS FOR THE
+LARGE-SCALE IMAGE CLASSIFICATION](https://arxiv.org/pdf/1709.08145.pdf)
+
 [House3D: A Rich and Realistic 3D Environment](http://embodiedqa.org/paper.pdf)
 
 [CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning](http://vision.stanford.edu/pdf/johnson2017cvpr.pdf)
